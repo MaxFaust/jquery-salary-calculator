@@ -1,9 +1,21 @@
-# Project Name
+Jquery Calculator
 
-[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md
+This calculator performs multiplication, division, addition, and subtraction on numbers input by the user.
 
-## Description
+Duration: one weekend
 
-Your project description goes here. What problem did you solve? How did you solve it?
+Prerequisites
+-Node.js
+-jQuery
 
-Additional README details can be found [here](https://github.com/PrimeAcademy/readme-template/blob/master/README.md).
+
+Built With
+-npm
+-jQuery
+-bootstrap
+
+Acknowledgement
+Thanks to Prime Digital Academy who equipped and helped me to make this application a reality. (Thank your people)
+
+Support
+If you have suggestions or issues, please email me at maxfaust247@gmail.com
