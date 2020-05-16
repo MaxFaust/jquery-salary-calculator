@@ -4,12 +4,14 @@ This calculator performs multiplication, division, addition, and subtraction on 
 
 Duration: one weekend
 
-Prerequisites
+Prerequisites:
+
 -Node.js
 -jQuery
 
 
-Built With
+Built With:
+
 -npm
 -jQuery
 -bootstrap
