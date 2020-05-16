@@ -7,13 +7,16 @@ Duration: one weekend
 Prerequisites:
 
 -Node.js
+
 -jQuery
 
 
 Built With:
 
 -npm
+
 -jQuery
+
 -bootstrap
 
 Acknowledgement
